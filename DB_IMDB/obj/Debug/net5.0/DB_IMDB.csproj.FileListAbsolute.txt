@@ -1,0 +1,354 @@
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.csproj.AssemblyReference.cache
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.AssemblyInfoInputs.cache
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.AssemblyInfo.cs
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.csproj.CoreCompileInputs.cache
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\appsettings.json
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.exe
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.deps.json
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.runtimeconfig.json
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.runtimeconfig.dev.json
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.pdb
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Dapper.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Humanizer.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.RazorTargetAssemblyInfo.cache
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\scopedcss\bundle\DB_IMDB.styles.css
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\DB_IMDB.StaticWebAssets.Manifest.cache
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\DB_IMDB.StaticWebAssets.Pack.cache
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.DB_IMDB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.build.DB_IMDB.props
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DB_IMDB.props
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DB_IMDB.props
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.csproj.Up2Date
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\refint\DB_IMDB.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.pdb
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.genruntimeconfig.cache
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\obj\Debug\net5.0\ref\DB_IMDB.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\MimeMapping.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Core.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Functions.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Gotrue.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Postgrest.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Realtime.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Storage.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Reactive.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Threading.Channels.dll
+C:\Users\TUF GAMING\source\repos\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Websocket.Client.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.csproj.AssemblyReference.cache
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.AssemblyInfoInputs.cache
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.AssemblyInfo.cs
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.csproj.CoreCompileInputs.cache
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.sourcelink.json
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\refint\DB_IMDB.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.pdb
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\appsettings.json
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.exe
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.deps.json
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.runtimeconfig.json
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.runtimeconfig.dev.json
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.pdb
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Dapper.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Humanizer.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\MimeMapping.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Core.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Functions.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Gotrue.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Postgrest.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Realtime.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Storage.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Reactive.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Threading.Channels.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Websocket.Client.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.RazorTargetAssemblyInfo.cache
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\scopedcss\bundle\DB_IMDB.styles.css
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\DB_IMDB.StaticWebAssets.Manifest.cache
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\DB_IMDB.StaticWebAssets.Pack.cache
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.DB_IMDB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.build.DB_IMDB.props
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DB_IMDB.props
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DB_IMDB.props
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.csproj.Up2Date
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.genruntimeconfig.cache
+C:\Users\TUF GAMING\Desktop\Bootcamp\bootcamp\REST API\Assignment_MileStone4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\ref\DB_IMDB.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\appsettings.json
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.exe
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.deps.json
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.runtimeconfig.json
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.runtimeconfig.dev.json
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.pdb
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Dapper.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Humanizer.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\MimeMapping.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Core.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Functions.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Gotrue.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Postgrest.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Realtime.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Storage.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Reactive.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Threading.Channels.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Websocket.Client.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.csproj.AssemblyReference.cache
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.AssemblyInfoInputs.cache
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.AssemblyInfo.cs
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.csproj.CoreCompileInputs.cache
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.RazorTargetAssemblyInfo.cache
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\scopedcss\bundle\DB_IMDB.styles.css
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\DB_IMDB.StaticWebAssets.Manifest.cache
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\DB_IMDB.StaticWebAssets.Pack.cache
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.DB_IMDB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.build.DB_IMDB.props
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DB_IMDB.props
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DB_IMDB.props
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.csproj.Up2Date
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\refint\DB_IMDB.dll
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.pdb
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.genruntimeconfig.cache
+C:\Users\atuld\Downloads\final\DB_IMDB\DB_IMDB\DB_IMDB\obj\Debug\net5.0\ref\DB_IMDB.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\appsettings.json
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.exe
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.deps.json
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.runtimeconfig.json
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.runtimeconfig.dev.json
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\DB_IMDB.pdb
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Dapper.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Humanizer.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\MimeMapping.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Core.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Functions.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Gotrue.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Postgrest.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Realtime.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Supabase.Storage.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Reactive.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\System.Threading.Channels.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\Websocket.Client.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.csproj.AssemblyReference.cache
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.AssemblyInfoInputs.cache
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.AssemblyInfo.cs
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.csproj.CoreCompileInputs.cache
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.sourcelink.json
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.RazorTargetAssemblyInfo.cache
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\scopedcss\bundle\DB_IMDB.styles.css
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\DB_IMDB.StaticWebAssets.Manifest.cache
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\DB_IMDB.StaticWebAssets.Pack.cache
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.DB_IMDB.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.build.DB_IMDB.props
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DB_IMDB.props
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DB_IMDB.props
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.csproj.Up2Date
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\refint\DB_IMDB.dll
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.pdb
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\DB_IMDB.genruntimeconfig.cache
+C:\Users\atuld\OneDrive\Desktop\repos\bootcamp\RESTAPI_MILESTONE4\DB_IMDB\DB_IMDB\obj\Debug\net5.0\ref\DB_IMDB.dll

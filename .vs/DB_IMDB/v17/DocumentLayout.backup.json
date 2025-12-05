@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atuld\\OneDrive\\Desktop\\repos\\bootcamp\\RESTAPI_MILESTONE4\\DB_IMDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{410A0450-D553-4916-BE7D-FD305E4E8C86}|DB_IMDB\\DB_IMDB.csproj|c:\\users\\atuld\\onedrive\\desktop\\repos\\bootcamp\\restapi_milestone4\\db_imdb\\db_imdb\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410A0450-D553-4916-BE7D-FD305E4E8C86}|DB_IMDB\\DB_IMDB.csproj|solutionrelative:db_imdb\\service\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410A0450-D553-4916-BE7D-FD305E4E8C86}|DB_IMDB\\DB_IMDB.csproj|c:\\users\\atuld\\onedrive\\desktop\\repos\\bootcamp\\restapi_milestone4\\db_imdb\\db_imdb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410A0450-D553-4916-BE7D-FD305E4E8C86}|DB_IMDB\\DB_IMDB.csproj|solutionrelative:db_imdb\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 198,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieService.cs",
+              "DocumentMoniker": "C:\\Users\\atuld\\OneDrive\\Desktop\\repos\\bootcamp\\RESTAPI_MILESTONE4\\DB_IMDB\\DB_IMDB\\Service\\MovieService.cs",
+              "RelativeDocumentMoniker": "DB_IMDB\\Service\\MovieService.cs",
+              "ToolTip": "C:\\Users\\atuld\\OneDrive\\Desktop\\repos\\bootcamp\\RESTAPI_MILESTONE4\\DB_IMDB\\DB_IMDB\\Service\\MovieService.cs",
+              "RelativeToolTip": "DB_IMDB\\Service\\MovieService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:58:49.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\atuld\\OneDrive\\Desktop\\repos\\bootcamp\\RESTAPI_MILESTONE4\\DB_IMDB\\DB_IMDB\\Startup.cs",
+              "RelativeDocumentMoniker": "DB_IMDB\\Startup.cs",
+              "ToolTip": "C:\\Users\\atuld\\OneDrive\\Desktop\\repos\\bootcamp\\RESTAPI_MILESTONE4\\DB_IMDB\\DB_IMDB\\Startup.cs",
+              "RelativeToolTip": "DB_IMDB\\Startup.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAowC8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:55:06.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
